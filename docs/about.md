@@ -3,24 +3,13 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I am a graduate student at New York University majoring in Computer Science.
+Currently working as a Section Leader at Courant Institute of Mathematical Sciences.
+Where I conduct labs for 80 students on the Computer Systems Organization.
+In my free time I like contributing to open source projects.
+Each day I try to improve myself as a person.
+Currently I am also learning touch typing. My typing speed was around 30-35 WPM when I started and I want to reach atleast 100 WPM.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
+Section Leader at Courant Institute of Mathematical Sciences for Computer Systems Organization class.
