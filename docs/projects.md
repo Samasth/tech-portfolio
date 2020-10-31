@@ -2,13 +2,7 @@
 id: projects
 title: Projects
 ---
-
-Embed any notable projects in this page.
-
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+[Smart Door Authentication System](https://github.com/Samasth/Smart_Door_Authentication_System)
+[Continual Learning](https://github.com/Samasth/Continual_Learning)
+[Canny Edge Detector](https://github.com/Samasth/Canny_Edge_Detector)
+[Human Detection](https://github.com/Samasth/Human_Detection)
